@@ -76,10 +76,10 @@ h1 {
 
 .user-clicked {
     box-shadow: 1px 1px 10px 10px white;
-    opacity: 50%;
+    opacity: 90%;
 }
 
 .pc-clicked {
     box-shadow: 1px 1px 10px 10px white;
-    opacity: 5%;
+    opacity: 90%;
 }
