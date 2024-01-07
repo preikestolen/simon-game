@@ -5,4 +5,4 @@
 * By Remembering and replaying Simon's sequences, the player's short-term memory stores and manipulates information.
 * Success in the game is directly related to the player's ability to memorize and repeat increasingly longer and more complex patterns, which contributes to the development and improvement of short-term memory.
 * A screenshot from the game is shown below.
-[Project Report](simon-game-ui.png)
+![Game Screenshot](simon-game-ui.png)
